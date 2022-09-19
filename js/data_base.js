@@ -94,7 +94,7 @@ const data_base = [
         nome:"Rise Of The Tomb Raider",
         img:"./img/rise of the tomb raider.jpg",
         valor:50,
-        categoria:["Aventura", "Esploração", "Modo Historia", "Imersivo"],
+        categoria:["Aventura", "Exploração", "Modo Historia", "Imersivo"],
         descricao:"O Passe de Temporada do Rise of the Tomb Raider: aniversário de 20 anos inclui o jogo base e o Passe de Temporada que apresenta conteúdo totalmente novo. Explore a Mansão Croft na nova história “Laços de Sangue” e a defenda contra uma invasão zumbi em “Pesadelo de Lara”.",
         button:"Visualizar",
         imgs:["./img/img raider/1.jpg", "./img/img raider/2.jpg", "./img/img raider/3.jpg", "./img/img raider/4.jpg"]
